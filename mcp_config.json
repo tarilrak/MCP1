@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "knowledge-base": {
+      "command": "python",
+      "args": ["mcp_server.py"],
+      "cwd": "c:\\Users\\DELL\\MCP1",
+      "env": {
+        "PYTHONPATH": "c:\\Users\\DELL\\MCP1"
+      },
+      "autoStart": true
+    }
+  }
+}
